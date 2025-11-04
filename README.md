@@ -1,8 +1,6 @@
 # M7_AE6_Grupal: Plataforma de Gestión de Voluntarios y Eventos (Django CRUD)
 Por Cristian Aranda, Alicia Contreras, Álvaro Ortega
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-4.x%2B-green.svg?style=flat-square)](https://www.djangoproject.com/)
 
 ## 📝 Descripción del Proyecto
 
